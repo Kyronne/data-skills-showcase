@@ -1,6 +1,6 @@
 <h1>Data Skills Showcase</h1>
 
-Creating this repository to showcase my Data Visualisation Skills, I will be creating a Website that will serve this function in the near future.
+Creating this repository to showcase my Data Visualisation Skills, I will be creating a Website that will serve this function in the next few days.
 
 Here is the work I am most proud of so far:
 
