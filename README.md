@@ -10,7 +10,7 @@ Here is the work I am most proud of so far:
 
 <h4>Stablecoins Deep Dive</h4>
 
-A dashboard highlighted by MetricsDao Twitter which was shared in their newsletter explaining the landscape of stablecoins(algorithmic, backed or a mix) and how their tokenomics work: https://twitter.com/MetricsDAO/status/1539975329615269890 
+A dashboard highlighted by MetricsDao Twitter and shared in their newsletter explaining the landscape of stablecoins(algorithmic, backed or a mix) and how their tokenomics work: https://twitter.com/MetricsDAO/status/1539975329615269890 
 
 https://app.flipsidecrypto.com/dashboard/stable-coin-deep-dive-metrics-dao-GwT4ii
 
