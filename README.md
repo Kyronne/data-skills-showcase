@@ -4,8 +4,6 @@ Creating this repository to showcase my Data Visualisation Skills, I've produced
 
 I am passionate about showcasing data in a way that is informative and educational for those that may be beginners but also provides value to those who are stakeholders or involved with the organisations/protocols I have created reports on. I'm currently in the top 10 contributors to MetricsDao.
 
-I will create a Website that will visually present the information in this repository in the next few days.
-
 Here is the work I am most proud of so far:
 
 <h4>Stablecoins Deep Dive</h4>
